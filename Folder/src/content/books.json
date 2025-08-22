@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "the-yankee-at-benbradagh",
+    "title": "The Yankee at Benbradagh",
+    "tagline": "A story that weaves history and memory in the shadow of a mountain.",
+    "blurb": "Full synopsis goes here — around 150–200 words describing the setting, themes, and why readers will care. For now this is a placeholder until we drop in the real blurb.",
+    "cover": "/covers/the-yankee-at-benbradagh.jpg",
+    "defaultPrice": 999,
+    "format": "Paperback",
+    "priceId": "price_yankee"
+  },
+  {
+    "slug": "breakfast-in-heaven",
+    "title": "Breakfast in Heaven",
+    "tagline": "An intimate and moving novel about love, loss, and the search for peace.",
+    "blurb": "Another placeholder blurb (150–200 words). We’ll swap in the real description once ready. Mention the emotional tone, stakes, and what makes this book unique.",
+    "cover": "/covers/breakfast-in-heaven.jpg",
+    "defaultPrice": 999,
+    "format": "Paperback",
+    "priceId": "price_breakfast"
+  }
+]
